@@ -1,0 +1,15 @@
+echo hii
+sleep 123 
+activities
+ping 66837 20
+activities
+fg 66837
+peek .;peek ..
+warp sample
+neonate -n 2
+warp ..
+warp test ;                  pwd
+warp sample ;              pwd
+sleeep 34
+warp
+warp ~/sample/pill
